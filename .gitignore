@@ -3,6 +3,8 @@
 *.patch
 *.rej
 
+CMakeLists.txt.user
+
 *.o
 *.pyc
 *.pyo
